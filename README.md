@@ -1,4 +1,6 @@
+<div>
 <img src="https://github.com/MrEchoFi/GreeDoS_V2/blob/master/thumbnail-6b5b0b58-293b-435f-9460-12621e837d65.jpeg?raw=true"  alt="logo" width="801" height="auto" />
+</div>
 <div align="center">
 
 
